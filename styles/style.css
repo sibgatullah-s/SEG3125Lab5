@@ -1,0 +1,73 @@
+
+/* Style sheet
+   color picker www.w3schools.com/colors/colors_picker.asp
+*/
+
+/* Bootstrap default font-family is Helvetica Neue */
+h1 {
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+#navbar {
+  background-color: lightgray;
+  border-radius: 25px;
+}
+
+.ui-icon {
+  float: left;
+}
+
+.icon {
+  height: 100px;
+}
+
+.p-3 {
+  background-color: white;
+}
+
+.btn-default {
+  font-weight: bold;
+}
+
+.col-sm {
+  text-align: center;
+}
+
+.col-sm button {
+  width: inherit;
+  height: inherit;
+}
+
+.hair {
+  height: 100px;
+}
+
+.card-columns {
+  display: flex;
+  margin-right: 100px;
+}
+
+/* #cctip {
+  color: #007bff;
+} */
+
+.showInput {
+  background-color: lightblue;
+}
+
+.error {
+  background-color: red;
+}
