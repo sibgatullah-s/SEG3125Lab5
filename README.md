@@ -29,3 +29,4 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQDvLZNKDlV7OchEGBickHFhQ
 
 Icons:
 https://api.jqueryui.com/theming/icons/
+icons8.com/icons

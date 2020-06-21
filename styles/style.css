@@ -30,6 +30,11 @@ body {
   float: left;
 }
 
+.ic {
+  float: left;
+  height: 10px;
+}
+
 .icon {
   height: 100px;
 }
